@@ -217,3 +217,5 @@ instructions on running it. Here's how the app looks with the Reactotron debugge
 ## Acknowledgements
 
 This is a fork of `react-native-threads`. We have adapted it to new react native versions and moved it to kotlin.
+
+https://github.com/joltup/react-native-threads
