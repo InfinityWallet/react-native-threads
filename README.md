@@ -217,15 +217,3 @@ instructions on running it. Here's how the app looks with the Reactotron debugge
 ## Acknowledgements
 
 This is a fork of `react-native-threads`. We have adapted it to new react native versions and moved it to kotlin.
-
-This library was heavily inspired by two other packages both under the name of
-`react-native-workers`.
-
-The first was https://github.com/fabriciovergal/react-native-workers ,
-and the second was https://github.com/devfd/react-native-workers
-
-I ended up going with devfd's implementation strategy as it seemed more flexible
-and feature-rich to me. At the time of this writing neither library was functioning
-on the latest version of react native, and neither seemed to be very actively maintained.
-
-This library would not exist without those two reference implementations to guide me!
