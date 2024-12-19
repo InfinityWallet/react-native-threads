@@ -1,0 +1,36 @@
+{
+  "name": "@exodus/react-native-threads",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joltup/react-native-threads.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "thread",
+    "workers",
+    "parallelism",
+    "concurrency",
+    "processing"
+  ],
+  "author": "Travis Nuttall",
+  "license": "MIT",
+  "files": [
+    "android/src",
+    "android/build.gradle",
+    "ios",
+    "!example/",
+    "!**/build/**",
+    "js/",
+    "index.js",
+    "RNThread.podspec"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.50.0"
+  }
+}
