@@ -15,7 +15,7 @@ and I recommend you investigate those thoroughly before using this library.
 
 ## Getting started
 
-`$ npm install react-native-threads --save`
+`$ npm install react-native-threads@https://github.com/InfinityWallet/react-native-threads --save`
 
 ### Mostly automatic installation
 
