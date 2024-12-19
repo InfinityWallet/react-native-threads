@@ -23,7 +23,7 @@ and I recommend you investigate those thoroughly before using this library.
 
 ### Android
 
-For android you will need to make a slight modification to your `MainApplication.java`
+For android you will need to make a slight modification to your `MainApplication.kt`
 file. In the `getPackages` method pass in `mReactNativeHost` to the `RNThreadPackage`
 constructor:
 
